@@ -48,7 +48,8 @@ edu=[('2010 – 2013','Program postdoctoral EXCEL','Modele matematice pentru eva
 page('about','Profil',intro('Profil academic','Profesor, cercetător și conducător de doctorat în inginerie electrică.')+'<section class="section wrap"><div class="prose"><h2>Despre mine</h2><p>Activitatea mea reunește măsurările electrice și electronice, prelucrarea semnalelor, calitatea energiei electrice și instrumentația biomedicală. În cadrul Facultății de Inginerie Electrică, îmbin predarea cu cercetarea și colaborarea cu mediul economic.</p></div><h2>Experiență profesională</h2>'+rows(career)+'<h2>Educație și formare</h2>'+rows(edu)+'<h2>Premii și distincții</h2>'+''.join('<p>'+esc(r['text'])+'</p>' for r in awards)+'</section>')
 projecthtml=''
 for group in dict.fromkeys(r['category'] for r in projects):
- projecthtml+=f'<h2>{esc(group.capitalize())}</h2><div class="pub-list">'
+ label = group.capitalize() + (' – membru în echipă' if group in ('internaționale', 'naționale') else '')
+ projecthtml+=f'<h2>{esc(label)}</h2><div class="pub-list">'
  for r in [x for x in projects if x['category']==group]:
   t=esc(r['text']);t=re.sub(r'(https?://[^\s<>]+)',r'<a href="\1">\1</a>',t)
   detail = 'farcross' if '864274' in r['text'] else ('interrface' if '824330' in r['text'] else '')
