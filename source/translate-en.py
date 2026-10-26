@@ -24,6 +24,7 @@ class Translate(HTMLParser):
   at=[]
   for k,v in attrs:
    if k=='lang':v='en-GB'
+   elif k=='src' and v=='app.js':v='app.js?v=en-1'
    elif k in ('alt','aria-label','placeholder','data-type') or (k=='content' and t=='meta'):v=tr(v) if v else v
    at.append(k if v is None else k+'="'+escape(v,quote=True)+'"')
   self.result.append('<'+t+(' '+' '.join(at) if at else '')+'>')
