@@ -188,6 +188,8 @@ membru în echipă:
     3. South-East European TSO Challenges, FP7-ENERGY-2008-TREN-1, 2010-2012;
 
     • naționale:
+    31. EVOSST Energy Index — Instituție: Universitatea Națională de Știință și Tehnologie POLITEHNICA București. Finanțare: UEFISCDI · PNCDI IV · Premiere Orizont Europa – Instituții. Contract: 121PHE/2025. Perioadă: octombrie 2025 – iunie 2027. Buget: 104.500 lei din bugetul de stat; fără cofinanțare. Dezvoltarea și validarea unui indice integrat al comportamentului consumatorilor casnici de energie electrică, prin evaluare multicriterială, clasificarea consumatorilor și recomandări pentru eficientizarea consumului, cu validare într-un prototip experimental de laborator. https://maecs.upb.ro/evosst-energy-index/
+    32. Resilient nanogrids — Resilient and Self-Recovering Nano Electric Networks. Instituție: Universitatea POLITEHNICA din București. Finanțare: Planul Național PN III (2013–2020) · Premiere pentru participarea la Orizont 2020. Contract de finanțare: 72 / 03.10.2022. Perioadă de participare: octombrie 2022 – septembrie 2024. Buget: 112.303 lei (aproximativ 23.000 EUR). Proiect național atribuit prin competiție, pentru susținerea participării la Orizont 2020 și cercetări privind nanorețele electrice reziliente, cu capacitate de autorestabilire. Proiect distinct de ELECTRON.
     1. Semafor inteligent cu tehnologie LED pentru creşterea siguranţei transportului feroviar PTE, 2016 – 2018
     2. Analiza şi testarea distribuţiei câmpului electric la izolatoarele din materiale compozite pentru creşterea siguranţei în funcţionare, Bridge Grant, 2016 – 2018;
     3. Sistem de monitorizare, inspecție avansată aeriană și terestră a infrastructurilor critice, POC – Axa 1, Ctr. 74/08.09.2016, cod MYSMIS 104350, P_39_408
