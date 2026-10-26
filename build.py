@@ -79,3 +79,6 @@ for slug,name,full,gid,period,personal,archive,snapshot,overview,demos,note in p
  if slug=='interrface':body+='<p class="figure-note">CORDIS indică încheierea proiectului la 31 decembrie 2022. Documentele profesionale furnizate consemnează intervalul 2019–2023; acesta este păstrat separat, fără a presupune o prelungire oficială a proiectului.</p>'
  body+='</div><aside class="fact-panel"><dl><dt>Program</dt><dd>Horizon 2020 · Innovation Action</dd><dt>Grant agreement</dt><dd>'+gid+'</dd><dt>Perioada oficială a proiectului</dt><dd>'+period+'</dd><dt>Interval raportat în documentele profesionale</dt><dd>'+personal+'</dd><dt>Surse</dt><dd><a href="https://cordis.europa.eu/project/id/'+gid+'">Fișa oficială CORDIS ↗</a><br><a href="'+archive+'">Site arhivat · '+snapshot+' ↗</a></dd></dl></aside></section>'
  page('project-'+slug,name,body)
+
+# Generate the public English edition from the retained professional source records.
+exec((src/'translate-en.py').read_text())

@@ -1,9 +1,9 @@
 const menu = document.querySelector('.menu-toggle');
 menu?.addEventListener('click', () => {
  const nav=document.querySelector('.nav'); const open=nav.classList.toggle('open');
- menu.setAttribute('aria-expanded',String(open)); menu.textContent=open?'Închide':'Meniu';
+ menu.setAttribute('aria-expanded',String(open)); menu.textContent=open?'Close':'Menu';
 });
-document.addEventListener('keydown',e=>{if(e.key==='Escape'&&menu){document.querySelector('.nav').classList.remove('open');menu.setAttribute('aria-expanded','false');menu.textContent='Meniu';}});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&menu){document.querySelector('.nav').classList.remove('open');menu.setAttribute('aria-expanded','false');menu.textContent='Menu';}});
 const filterForm=document.querySelector('[data-filter-form]');
 if(filterForm){
  const cards=[...document.querySelectorAll('[data-search]')];
@@ -17,7 +17,7 @@ if(filterForm){
    filterForm.querySelectorAll('select').forEach(select=>{const val=select.value; if(val && !(card.dataset[select.name]||'').split('|').includes(val))visible=false;});
    card.hidden=!visible;if(visible)count++;
   });
-  document.querySelector('[data-result-count]').textContent=`${count} din ${cards.length} înregistrări`;
+  document.querySelector('[data-result-count]').textContent=`${count} of ${cards.length} ${filterForm.dataset.noun||'records'}`;
   document.querySelector('[data-empty]').hidden=count>0;
  }
  filterForm.addEventListener('input',filter);filterForm.addEventListener('change',filter);

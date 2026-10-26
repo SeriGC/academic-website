@@ -1,0 +1,320 @@
+1|Skip to content
+4|Research & academic profile
+5|Menu
+6|Overview
+7|Research
+8|Publications
+9|Teaching
+10|About
+12|Academic profile
+13|Professor, researcher and doctoral supervisor in electrical engineering.
+14|View publications
+15|About me
+16|My work brings together electrical and electronic measurements, signal processing, power quality and biomedical instrumentation. At the Faculty of Electrical Engineering, I combine teaching with research and collaboration with industry.
+17|Professional experience
+18|2004 – present
+19|Academic appointments
+20|Lecturer / Associate Professor / Professor, Faculty of Electrical Engineering, Department of Measurements, Electrical Apparatus and Static Converters.
+22|Vice-Dean for Research and Student Internships
+23|Faculty of Electrical Engineering. Developing links with industry.
+24|2018 – present
+25|Doctoral supervisor
+26|POLITEHNICA Bucharest, Electrical Engineering.
+28|Research Assistant
+29|Scientific research in electrical and electronic measurements.
+30|Education & training
+32|EXCEL postdoctoral programme
+33|Mathematical models for evaluating measurement uncertainty and power-quality metrology.
+35|AUF postdoctoral fellowship · IREENA, France
+36|Transformer behaviour under non-sinusoidal conditions and power quality.
+38|PhD in Electrical Engineering
+39|Thesis: Contributions to the analysis and synthesis of power and electrical-energy measurement chains.
+40|Awards & distinctions
+41|Grand Prize: “SUPER-IDEEA ANULUI” — competition organised by POLITEHNICA Bucharest, first edition, 2025.
+42|Honourable mention — ECG Generation Methods for Testing and Maintenance of Cardiac Monitors, E-Health and Bioengineering Conference (EHB), 2015.
+43|Diploma of Excellence: Cepișcă C., Andrei H., Serițan G., Stancu L., Perpelea M., Dogaru-Ulieru V. — Advanced control system for reducing the energy consumption of public street lighting systems. Inventica, 4–6 June 2009, National Institute of Inventics, Iași.
+44|Diploma of Excellence: Serițan G.C., Cepișcă C. — Promoting Romanian participation in Framework Programme 7 and developing science and technology partnerships in environmental technologies for food and health. Pro Invent, Cluj-Napoca, Romanian Inventors Society (SIR), 2009.
+45|Second Prize — Time-frequency techniques for heart-rate variability analysis. Viasan-Ceex, 2008, Academy of Medical Sciences.
+46|Diploma of Excellence marking 90 years of institutional electrical-engineering education at the Polytechnic School of Bucharest. Dean: Professor Claudia Popescu.
+47|Academic community
+48|Scientific reviewing & affiliations
+49|Journal reviewing
+50|Documented reviewing activity for IEEE Transactions on Power Delivery, Sustainable Energy Technologies and Assessments, IET Science, Measurement & Technology, IETE Journal of Research, Revue Roumaine des Sciences Techniques – Série Électrotechnique et Énergétique, and MDPI journals.
+51|Conferences & scientific committees
+52|Scientific committee participation and/or reviewing for ATEE, UPEC, EHB, ISFEE, MPS, SEST and SIELMEN. The professional record also lists EPE (2024), and ATEE, SIELMEN and MSCC (2025).
+53|Professional affiliations
+55|Affiliations listed in the CNATDCU record 251006; current membership status has not been independently verified.
+56|International doctoral assessment
+57|External examiner at City University London for Simon Agamah’s thesis on optimising energy-storage scheduling and analysing power systems.
+58|Electrical engineering · POLITEHNICA Bucharest
+63|© 2026 George-Călin Serițan · Bucharest, Romania
+64|Sources: CV, May 2026 · Publication list, October 2026 · CNATDCU record 251006
+66|Let’s collaborate.
+67|For research collaborations, academic projects and discussions about electrical-engineering education.
+68|University email
+70|Affiliation
+71|Faculty of Electrical Engineering
+72|Department of Measurements, Electrical Apparatus and Static Converters
+73|National University of Science and Technology POLITEHNICA Bucharest
+74|313 Splaiul Independenței
+75|060042, Bucharest, Romania
+76|Academic identifiers
+82|Professional profile
+84|Professional summary · George-Călin Serițan
+85|Print / Save as PDF
+86|Professor, PhD · Faculty of Electrical Engineering · POLITEHNICA Bucharest
+88|Experience
+89|Expertise
+90|Electrical and electronic measurements; power quality; data acquisition and processing; signal analysis; biosensors and instrumentation.
+91|Academic responsibilities
+92|Member of the POLITEHNICA Bucharest Senate since 2020. Vice-President of the Faculty of Electrical Engineering Alumni Association. Member of the Faculty Council since 2019 and the DMAECS Department Council since 2012, according to the May 2026 CV.
+93|Research activity
+94|Project director / lead in national and international projects. Author and co-author of books, chapters and scientific articles. Reviewer for specialist journals and conferences.
+95|Browse the publication catalogue →
+97|Electrical engineering · Research · Education
+100|Professor, PhD · Doctoral supervisor
+101|Electrical measurements, intelligent instrumentation systems and power quality. Research and education at the National University of Science and Technology POLITEHNICA Bucharest.
+102|Explore research →
+103|Bucharest, Romania
+105|Research outputs catalogued
+107|Research projects
+109|Projects as director / lead
+111|SUPER-IDEEA ANULUI Grand Prize
+112|Figures from the supplied professional records; research outputs include books, chapters and articles.
+113|Research interests
+114|From measurement to application.
+115|01 / METROLOGY
+116|Measurements & instrumentation
+117|Measurement systems, uncertainty, data acquisition and signal processing.
+118|Research areas →
+119|02 / ENERGY
+120|Power quality
+121|Power and energy measurement, non-sinusoidal conditions, smart grids and renewable-energy integration.
+122|03 / BIOSENSORS
+123|Biomedical instrumentation
+124|Biosensors, biomonitoring and signal processing for medical applications.
+125|Research & collaboration
+126|Leadership & collaboration
+127|All research projects →
+130|International research project
+131|Project director / lead
+139|Selected publications
+140|Publications & contributions
+141|Complete catalogue →
+142|ISI-indexed journals
+144|DOI / publisher ↗
+147|Teaching & academic practice
+148|Bringing research into the laboratory.
+149|Electrical measurements, instrumentation and the development of future researchers.
+150|Teaching profile
+152|International · Research project
+153|Resilience and self-recovery in electrical nanogrids.
+154|← Back to research projects
+155|Description & identification
+158|Participation
+159|George-Călin Serițan · Project director / lead
+160|The reported period follows the information supplied. The overall project duration does not automatically represent the duration of an individual appointment.
+161|Category
+162|International
+163|Reported period
+165|National · Research project
+167|Multi-criteria assessment of household electricity use and recommendations for energy efficiency.
+168|EVOSST Energy Index — Institution: National University of Science and Technology POLITEHNICA Bucharest. Funding: UEFISCDI · PNCDI IV · Horizon Europe Institutional Awards. Contract: 121PHE/2025. Duration: October 2025 – June 2027. Budget: 104,500 RON from the Romanian state budget; no co-financing. Development and validation of an integrated index of household electricity-consumption behaviour through multi-criteria assessment, consumer classification and recommendations for more efficient electricity use, with validation in an experimental laboratory prototype.
+170|George-Călin Serițan · Team member
+171|Team member
+172|National
+173|October 2025 – June 2027
+174|Institution
+175|Funding
+176|UEFISCDI · PNCDI IV · Horizon Europe Institutional Awards
+179|Budget
+180|104,500 RON · Romanian state budget · no co-financing
+182|Evaluation and valorisation of social services for a sustainable transition.
+186|Horizon 2020 · Completed project
+189|Project objectives
+190|FARCROSS aimed to increase cross-border transmission capacity and improve regional cooperation through hardware and software solutions for transmission networks. Its objectives included making better use of existing infrastructure, integrating renewable energy and improving power-system observability.
+191|Demonstration areas
+192|MPFC · Power-flow control
+193|Modular control solutions to increase inter-system transfer capacity and reduce renewable-generation curtailment.
+194|DLR-H · Dynamic line rating
+195|Combining dynamic transmission-capacity assessment with monitoring of line condition and analysis of operational risks.
+196|WAMPAC · Measurement, protection & control
+197|Real-time wide-area measurements, identification of inter-area oscillations, and communication architectures for grid protection and control.
+198|EUROPAN · Forecasting & planning
+199|Forecasting renewable generation and demand response using meteorological and geospatial information for regional coordination.
+200|OPTIM-CAP · Capacity allocation
+201|Co-optimising cross-border capacity use for energy and reserves.
+202|Participation & context
+203|George-Călin Serițan: project director / lead, according to the supplied publication list and CNATDCU record. The technical description above presents the consortium’s activities.
+204|The archived website lists POLITEHNICA University of Bucharest among the contributors to the EUROPAN / WP7 demonstrator. This identifies an institutional contribution and does not attribute individual work-package leadership.
+205|Programme
+209|Official project duration
+210|1 October 2019 – 30 September 2023
+211|Period reported in professional records
+213|Sources
+214|Official CORDIS record ↗
+215|Archived website · 11 January 2024 ↗
+218|Flexibility, storage and renewable-energy integration in transmission networks.
+225|INTERRFACE aimed to coordinate transmission operators, distribution operators and consumers in the use and procurement of grid services. Its interoperable pan-European IEGSA architecture connects participants and market platforms, supporting distributed-resource integration and active consumer participation.
+226|The project addressed demand flexibility, congestion management and balancing, using digital tools including blockchain and big-data management.
+227|Congestion management & balancing
+228|Three demonstrators: DSO and consumers alliance, Intelligent Distribution Nodes (IDN), and Single Flexibility Platform.
+229|Peer-to-peer trading
+230|Two demonstrators: Asset-enabled local markets and Blockchain-based TSO-DSO flexibility.
+231|Pan-European clearing market
+232|Two demonstrators: DERs into Wholesale and Spatial Aggregation of Local Flexibility.
+233|The January 2021 archive presents seven large-scale demonstrators grouped into three areas. It documents the project structure at the time of capture.
+234|CORDIS gives the project end date as 31 December 2022. The supplied professional records list 2019–2023; this period is retained separately without implying an official project extension.
+236|1 January 2019 – 31 December 2022
+237|Archived website · 20 January 2021 ↗
+240|National support for research into resilient, self-recovering electrical nanogrids.
+241|Resilient nanogrids — Resilient and Self-Recovering Nano Electric Networks. Institution: Politehnica University of Bucharest. Funding: National Plan PN III (2013–2020) · Horizon 2020 Participation Award. Funding contract: 72 / 03.10.2022. Participation: October 2022 – September 2024. Budget: 112,303 RON (approximately EUR 23,000). A competitively awarded national project supporting Horizon 2020 participation and research into resilient, self-recovering electrical nanogrids. This is a separate project from ELECTRON.
+242|October 2022 – September 2024
+243|Politehnica University of Bucharest
+244|PN III · Horizon 2020 Participation Award
+246|112,303 RON (approximately EUR 23,000)
+249|A virtual e-learning platform with 3D applications for dental prosthetics.
+250|Contract 342/2014 — Virtual e-learning platform based on 3D applications for dental prosthetics (VIRPRO). Project PN-II-PT-PCCA-2013-4-0644, October 2014 – 30 September 2017. Role: project lead.
+253|Vital-sign biomonitoring
+254|Monitoring vital signs during the operation of critical infrastructure.
+255|Contract PO19004 / 1780/09.04.2014. POSCCE Priority Axis 2: Competitiveness through Research, Development and Innovation; Operation 2.3.3: Promoting innovation in enterprises. SMIS 50239 — Platform for biomonitoring vital signs during the operation of critical infrastructure, 2014–2016. Role: project director.
+259|Optimising energy consumption and improving efficiency in small and medium-sized enterprises.
+260|Contract 1730/27.09.2013. POSCCE Priority Axis 2: Competitiveness through Research, Development and Innovation; Operation 2.3.3: Promoting innovation in enterprises. SMIS 47525 — Development of an intelligent modular system to optimise energy consumption and improve efficiency in small and medium-sized enterprises (ENOPT), 2013–2015. Role: project director.
+263|Turnkey wind farms
+264|Integrating tower manufacturing and turbine assembly into wind-farm construction.
+265|Contract 516/31.07.2013, ID 1529. POSCCE Priority Axis 2: Competitiveness through Research, Development and Innovation; Operation 2.3.3: Promoting innovation in enterprises. SMIS 45563 — Turnkey wind-farm construction integrating tower manufacturing and wind-turbine assembly, 2013–2015. Role: project director.
+268|Unmanned aerial systems for monitoring birds in the Danube Delta.
+269|UAS innovative survey and monitoring model for colonially breeding waterbird species from the Danube Delta Biosphere Reserve — UAS BIRD. Partnerships programme, contract 70/2012, 2012–2013. Role: project lead.
+273|Partnerships and participation in European research into environmental technologies, food and health.
+274|Promoting Romanian research participation in Framework Programme 7 and developing science and technology partnerships in environmental technologies for food and health (TEHNO-S). Research of Excellence, Module 3, contract 161/2006–2008. Role: project director.
+277|Remote ECG monitoring
+278|Remote monitoring and analysis of ECG parameters to improve quality of life.
+279|C 2107 / 01.10.2004 — Integrated system to improve quality of life through remote monitoring and analysis of ECG parameters, in alignment with EU standards. Subprogramme 5: RELANSIN – Quality of Life. Role: project lead.
+282|Energy measurement error correction
+283|Automatic correction of measurement errors under steady-state and transient conditions.
+284|Automatic correction of electrical-energy measurement errors under steady-state and transient grid conditions. National Agency for Science, Technology and Innovation (ANSTI), 1999–2000. Contract 5076/1999, addendum 6028/2000, topic A41. Role: grant director.
+288|Smart and sustainable island electricity grids with large-scale renewable integration.
+293|Efficient road-surface measurement and control.
+298|Challenges facing transmission system operators in south-eastern Europe.
+302|Intelligent LED railway signals
+303|Intelligent LED signals to improve railway transport safety. PTE, 2016–2018.
+306|Composite-material insulators
+307|Analysis and testing of electric-field distribution in composite-material insulators to improve operational safety. Bridge Grant, 2016–2018.
+308|Analysis and testing of electric-field distribution in composite-material insulators to improve operational safety. Bridge Grant, 2016–2018.
+310|Critical-infrastructure inspection
+311|Advanced aerial and ground monitoring and inspection system for critical infrastructure. POC Axis 1, contract 74/08.09.2016, MYSMIS 104350, P_39_408.
+312|Contract awarded in 2016
+315|Contract 33/2014 — Integrated monitoring and control system for comprehensive real-time estimation of the operational state of electrical networks (SIMCEC). PN-II-PT-PCCA-2013-4-025, October 2014 – 30 September 2017.
+316|Contract 33/2014 — Integrated monitoring and control system for comprehensive real-time estimation of the operational state of electrical networks (SIMCEC). PN-II-PT-PCCA-2013-4-025, October 2014 – 30 September 2017.
+318|Island renewable-energy resources
+319|Large-scale integration of smart, sustainable island renewable-energy resources. 241EU/2013, Capacities programme, Module III, 2013–2015.
+320|Large-scale integration of smart, sustainable island renewable-energy resources. 241EU/2013, Capacities programme, Module III, 2013–2015.
+323|PNCDI Partnerships — New methods and investigation protocols for early diagnosis, efficient screening, prognosis and therapy of non-melanoma skin cancers using existing and novel micro- and nano-optical tools (NANOLASCAN). Contract 10/2012, 2012–2015.
+326|PNCDI Partnerships — Multimodal optical imaging system for intraoperative detection of positive tumour margins (MOIST). Contract 184/2012, 2012–2015.
+329|Intelligent meter based on energy-signature assessment — SigMED.
+330|Intelligent meter based on energy-signature assessment (SigMED). Contract 30/2012 / PCCA Type 2, 2012–2015.
+332|South-eastern European energy mechanisms
+333|Research into a new energy mechanism for south-eastern Europe.
+334|Research into a new energy mechanism for south-eastern Europe. Capacities contract 75EU/11.06.2010, 2010–2012.
+337|Highly interchangeable automated video system for metrological calibration — VIDEOCAL.
+338|Highly interchangeable automated video system for metrological calibration (VIDEOCAL). Partnerships contract 72-173, 2008–2011.
+342|PNCDI II Partnerships — E-health platform for real-time monitoring, localisation and processing for patients at cardiovascular risk (ERISC). Project 12123/2008, 2008–2011.
+345|PNCDI II Innovation — Laser system adapted for an ophthalmic biomicroscope (OFTALAS). Contract 180/3/26.08.2008, 2008–2010.
+349|PNCDI II Innovation — Mobile system for precision mapping of roads and adjacent sites (MMS). Contract 184/26.08.2008, 2008–2010.
+352|PNCDI II Innovation — Computerised integrated power-supply and protection system for automation and remote-control installations in electricity substations (SIASTE). Contract 179/2008, 2008–2010.
+355|Methods and techniques to improve industrial energy efficiency and reduce losses in the supply network — RELES.
+356|Methods and techniques to improve industrial energy efficiency and reduce losses in the supply network (RELES). Partnerships programme, 2007–2010.
+360|Modernising fuses by optimising their thermal and electrical operating conditions — MS-FORTE.
+361|Modernising fuses by optimising their thermal and electrical operating conditions (MS-FORTE). AMCSIT Innovation, contract 110/2007, 2007–2009.
+365|Integrated real-time control system for efficient electrical and thermal energy production in gas-fired cogeneration plants — ISCET.
+366|Integrated real-time control system for efficient electrical and thermal energy production in gas-fired cogeneration plants (ISCET). Partnerships programme, 2007–2009.
+369|Active-adaptive 3D optical metrology for nanoscience and technology; experimental adaptive digital-holography installation — MAST.
+370|Active-adaptive 3D optical metrology for nanoscience and technology; experimental adaptive digital-holography installation (MAST). Partnerships programme, 2007–2009.
+373|90 kVA equipment for driving aircraft 400 Hz electric motors — AVION.
+374|90 kVA equipment for driving aircraft 400 Hz electric motors (AVION). AMCSIT Innovation, contract 129/2007, 2007–2009.
+377|Innovation in internet and multimedia services through convergent intelligent streaming and social-networking solutions — SIMT.
+378|Innovation in internet and multimedia services through convergent intelligent streaming and social-networking solutions (SIMT). AMCSIT Innovation, contract 111/2007–2009.
+381|Intelligent equipment for street-lighting control — INTIL.
+382|Intelligent equipment for street-lighting control (INTIL). PN2 Innovation contract 56/2007, 2007–2009.
+385|Intelligent design of integrated flexible photovoltaic components with maximised conversion efficiency — IFIPVCELLS.
+386|Intelligent design of integrated flexible photovoltaic components with maximised conversion efficiency (IFIPVCELLS). PN2 Partnerships contract 21-021/2007, 2007–2009.
+389|Method and equipment for dynamic testing of longitudinal road profiles — PROLOG.
+390|Method and equipment for dynamic testing of longitudinal road profiles (PROLOG). AMCSIT Innovation, contract 123/2007–2009.
+392|Static power supplies for aircraft
+393|Improving time, cost and environmental efficiency in aircraft technical services through new static starting power supplies and a programmable source with 1 Hz steps and 0.3% distortion for testing 400 Hz onboard equipment.
+394|Improving time, cost and environmental efficiency in aircraft technical services through new static starting power supplies and a programmable source with 1 Hz steps and 0.3% distortion for testing 400 Hz onboard equipment. CEEEX Module 1 contract 136, 2006–2007.
+397|Power-quality testing laboratory
+398|Development and accreditation of a power-quality testing laboratory, 2006–2007.
+399|Development and accreditation of a power-quality testing laboratory. CEEX Module 4 contract 1114/2006, 2006–2007.
+401|Microsystem nanometrology
+402|Research into microsystem nanometrology, 2005–2007.
+403|Research into microsystem nanometrology. CEEX contract 3/2005, 2005–2007.
+406|Low-interference street lighting
+407|Sodium-vapour street lighting with reduced broadband electromagnetic interference, 2003–2005.
+408|Sodium-vapour street lighting with reduced broadband electromagnetic interference. RELANSIN research contract 1746/01.08.2003, 2003–2005.
+411|Pipe-expansion measurement
+412|Advanced data-acquisition and processing equipment for automatic measurement of expansion in longitudinally welded pipes, 2003–2005.
+413|Advanced data-acquisition and processing equipment for automatic measurement of expansion in longitudinally welded pipes. RELANSIN research contract 1748/01.08.2003, 2003–2005.
+415|Digital electricity-meter characterisation
+416|Intelligent equipment for characterising digital electricity meters under non-sinusoidal conditions, 2000–2002.
+417|Intelligent equipment for characterising digital electricity meters under non-sinusoidal conditions. Contract 504/2000, topic B98, UPB–ANSTI–Horizon 2000, 2000–2002.
+420|PHARE training centre
+421|PHARE Ro9807 — Complementary training centre for technical-education graduates, 2000.
+424|A digital twin of the European electricity system.
+428|Research portfolio
+429|Research connected to real-world applications.
+430|Metrology, energy and instrumentation projects: leadership and collaboration in national and international research.
+431|01 / Observe
+432|Measure & characterise
+433|Electrical quantities, signals and operating conditions.
+434|02 / Understand
+435|Model & interpret
+436|Metrology, uncertainty and data processing.
+437|03 / Apply
+438|Systems & decisions
+439|Smart grids, energy and biomedical instrumentation.
+440|The complete project portfolio
+441|49 research projects
+442|Roles and periods follow the supplied professional information. Overall project durations and individual participation periods are identified separately where available.
+443|International – project director / lead
+444|International · Research
+445|Project details →
+446|Coordinating transmission operators, distribution operators and consumers through interoperable services.
+447|Cross-border electricity flows, grid observability and regional coordination.
+448|National – project director / lead
+449|National · Research
+450|International – team member
+451|National – team member
+452|Industrial property
+454|Transfer to industry
+455|Industry collaborations
+456|2006 · Team member
+458|Assessment of harmonic content and a power-factor improvement installation. Contract 7153/2006, UPB–CMIM / ALRO Slatina.
+460|Analysis of power quality in the transmission system and practical approaches to reducing electrical-energy metering errors.
+462|Teaching & mentoring
+463|National and international teaching experience, specialist training and doctoral supervision.
+464|Electrical and electronic measurements
+465|Measurement of electrical quantities, measurement systems and instrumentation.
+466|Data acquisition & processing
+467|Acquisition and processing in industrial processes; computer-controlled distributed measurement systems.
+468|Harmonic pollution, spectral analysis and measurement methods.
+469|Biosensors & instrumentation
+470|Medical biosensors and systems for monitoring biological parameters.
+471|Signal processing
+472|Analogue processing, spectral analysis and digital filtering.
+473|Project management
+474|Teaching experience in training programmes and specialist courses.
+475|Doctoral supervision
+476|Doctoral supervisor since 2018. The May 2026 CV records 15 doctoral students, including 2 who have completed their studies, and participation in supervisory committees at POLITEHNICA Bucharest and the Military Technical Academy.
+477|International experience
+478|Erasmus teaching at TEI of West Macedonia, Greece: Renewable Energy and Digital Signal Processing (2007), Power Quality (2014), and Data Acquisition and Processing in Industrial Processes (2015 and 2016).
+479|Academic coordination
+480|Coordinator of the Intelligent Instrumentation and Measurement Systems (SIIM) master’s programme, according to the CV. Teaching across the faculties of Electrical Engineering, Power Engineering, Medical Engineering and SIM.
+481|Resources & mobility
+482|Teaching materials & international collaboration
+483|Advanced Measurement and Estimation in Instrumentation
+484|Electronic course and laboratory materials, 100 pages, listed in the CNATDCU record.
+485|Courses & guidance
+486|Teaching materials for electrical and electronic measurements, data acquisition and processing in industrial processes, and biomedical sensors. The publication catalogue also includes laboratory manuals for electrical engineering, power engineering and biomedical instrumentation.
+487|Erasmus+ mobility: Romania–Greece
+488|Coordination of student and staff mobility under the Erasmus+ interinstitutional agreement, 2014–2021.
